@@ -2,7 +2,7 @@
 
 ONLY FOR PRIVATE USE! No commercial use allowed!
 Music Sync WPF Application with Un4seen BASS.dll
-If you want the executeable application only, download the following github: https://github.com/SaschaK/TuyaMusicSync_Executeable
+If you want the application source, download the following github: https://github.com/SaschaK/TuyaMusicSync
 
 This application uses code fragments of the following article from CodeProject.com written by webmaster442 (pieces of analyzer.cs).
 https://www.codeproject.com/Articles/797537/Making-an-Audio-Spectrum-analyzer-with-Bass-dll-Cs
